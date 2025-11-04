@@ -66,13 +66,13 @@ Chennai, India | Oct 2021 – Jul 2022
 
 ## **Education**
 **Master of Artificial Intelligence & Machine Learning**  
-The University of Adelaide, Adelaide, SA | 2024 – 2026
-Project - Investigation of marginalisation and adaptivity within SMC in RL  
-GPA: 6.89/7.00  
+- The University of Adelaide, Adelaide, SA | 2024 – 2026
+- Project - Investigation of marginalisation and adaptivity within SMC in RL  
+- GPA: 6.89/7.00  
 
 **Bachelor of Technology in Mechanical Engineering**  
-Vellore Institute of Technology, Vellore, India | 2017 – 2021
-Project - [Thermal Properties of Heat Pipes with Varying Geometry](https://www.sciencedirect.com/science/article/abs/pii/S2214785321025761)
-CGPA: 8.35/10.00  
+- Vellore Institute of Technology, Vellore, India | 2017 – 2021
+- Project - [Thermal Properties of Heat Pipes with Varying Geometry](https://www.sciencedirect.com/science/article/abs/pii/S2214785321025761)
+- CGPA: 8.35/10.00  
 
 ---
