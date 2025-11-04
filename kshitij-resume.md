@@ -21,16 +21,16 @@ I like to build products which are actually useful.
 
 ## **Experience**
 
-**AI Engineer | [Calld.AI](https://www.calld.ai)** | Partime 
+**AI Engineer | [Calld.AI](https://www.calld.ai)** | Partime |
 Melbourne, Australia | Mar 2025 – Present  
 - Building Voice AI for enterprise call centers.  
 
-**AI Engineer | [ExpertEaseAI](https://experteaseai.com)** | Contract 
+**AI Engineer | [ExpertEaseAI](https://experteaseai.com)** | Contract |
 Adelaide, South Australia | Aug 2024, Dec 2024 – Mar 2025  
 - Lead the development of Voice AI and migrated RAG systems to Azure native services.  
 - Built a RAG chatbot to parse CSV, Excel, TXT, PDF, and website data for source-driven responses.
 
-**Specialist Data Scientist | [SOLV (Standard Chartered Research & Tech)](https://www.solvezy.com)** | Fulltime
+**Specialist Data Scientist | [SOLV (Standard Chartered Research & Tech)](https://www.solvezy.com)** | Fulltime |
 Bengaluru, India | Jul 2022 – May 2024  
 - Improved buyer segmentation using clustering and cohort modelling.
 - Generated statistical insights and reports for business stakeholders.  
@@ -38,7 +38,7 @@ Bengaluru, India | Jul 2022 – May 2024
 - Integrated image captioning system and developed Document Q&A system.  
 - Mentored junior data scientists, built dashboards and automated data ingestion workflows.
 
-**Programmer Analyst Trainee | [Cognizant Technology Solutions](https://www.cognizant.com)**  | Fulltime
+**Programmer Analyst Trainee | [Cognizant Technology Solutions](https://www.cognizant.com)**  | Fulltime |
 Chennai, India | Oct 2021 – Jul 2022  
 - Involved in building Mundipharma website using DRUPAL CMS.
 
